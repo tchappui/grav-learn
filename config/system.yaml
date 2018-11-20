@@ -1,6 +1,10 @@
 home:
   alias: '/basics'
 
+language:
+  supported:
+    - en
+    - fr
 pages:
   theme: learn3
   markdown:
